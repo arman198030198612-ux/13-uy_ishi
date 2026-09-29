@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1260px;
+}
+.news{
+    padding-top: 103px;
+    display: flex;
+    justify-content: space-between;
+}
+.lefi-card-2 h2{
+    color: white;
+    margin-top: 21px;
+}
+.lefi-card-2 p{
+    color: white;
+    margin-top: 32px;
+}
+.lefi-cards{
+    width: 587px;
+}
+.lefi-cards button{
+    border: none;
+    margin-top: 21px;
+    color: white;
+    padding: 10px 32px;
+    background-color: #2351F5;
+}
+span{
+    color: white;
+}
+.lefi-cards h2{
+    color: white;
+    margin-top: 21px;
+}
+.lefi-cards p{
+    color: white;
+    margin-top: 32px;
+}
+.lefi-card-1:last-child{
+    margin-top: 44px
+}
+.p2{
+    margin-bottom: 90px;
+}
+.hero{
+    background: linear-gradient(177.34deg, #070320 46.05%, #05119D 50.67%, #2351F5 92.85%);
+
+}
+.right-cards p{
+    color: white;
+}
+
+.right-cards span{
+    color: white;
+}
+.right-card-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.right-cards button{
+    border: none;
+    margin-top: 21px;
+    color: white;
+    padding: 10px 32px;
+    background-color: #2351F5;
+}
+.right-card{
+    margin-left: 31px;
+}
+.right-card-1{
+    padding-bottom: 60px;
+}
